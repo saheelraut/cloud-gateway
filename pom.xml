@@ -41,11 +41,6 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-circuitbreaker-reactor-resilience4j</artifactId>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>com.example.microservice</groupId>-->
-<!--            <artifactId>cloud-gateway</artifactId>-->
-<!--            <version>0.0.1-SNAPSHOT</version>-->
-<!--        </dependency>-->
     </dependencies>
     <dependencyManagement>
         <dependencies>
